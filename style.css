@@ -1,0 +1,36 @@
+:root{
+  --bg1: #FFEBEB;
+  --bg2: #ADE4DB;
+  --bg3: #C8B6A6;
+  --bg4: #FA9884;
+  --bg5: #FFF3E2;
+  --bg6: #B9E9FC;
+}
+
+.refreshTime{
+  color: green;
+  font-weight: 500
+}
+
+.bound{
+  color: darkgoldenrod;
+  font-weight: 500
+}
+.bg-1{
+  background: var(--bg1);
+}
+.bg-2{
+  background: var(--bg2);
+}
+.bg-3{
+  background: var(--bg3);
+}
+.bg-4{
+  background: var(--bg4);
+}
+.bg-5{
+  background: var(--bg5);
+}
+.bg-6{
+  background: var(--bg6);
+}
